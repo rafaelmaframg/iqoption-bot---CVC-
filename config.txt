@@ -1,0 +1,23 @@
+user = xxxxx
+password = xxxxxx
+OPERACAO = 1
+TIPO_MHI = DEMO
+PAR = eurusd
+dir = CVC
+multiplicador = 2
+valor_entrada = 2
+stop_loss = 20
+stop_gain = 20
+
+
+#LEGENDA 
+#===================
+#OPERACAO =  1 - (Digital)  2 - (Binaria)
+#TIPO_MHI =  DEMO - REAL
+#PAR = PARIDADE para operar ex: EURUSD-OTC
+#dir = CVC ou VCV
+#multiplicador = #valor da multiplicacao
+#valor_entrada = #valor entrada
+#stop_loss = #valor stop loss
+#stop_gain = #valor stop gain
+#=====================
